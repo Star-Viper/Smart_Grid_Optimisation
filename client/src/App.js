@@ -1,11 +1,16 @@
 import './App.css';
-import Practice from './Components/Practice';
+import Given from './Components/Given';
+import Practice from './Components/Predicted';
+
 
 function App() {
   return (
-   <>
-      <Practice/>
-   </>
+    <>
+      <Routes>
+        <Route exact path='/given' element={<Given />} />
+        <Route exact path='/predicted' element={<Practice />} />
+      </Routes>
+    </>
   );
 }
 
