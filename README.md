@@ -14,3 +14,8 @@ The objective of our project is to develop predictive models for wind power gene
 - Predictive Modeling: Build machine learning models to forecast wind power generation accurately, leveraging historical data and forecasted independent variables.
 - Grid Stability Assessment: Develop classification models to determine grid stability based on power generation, consumption, and other parameters.
 - Visualization and Analysis: Visualize analysis results and model outputs using Python libraries like Matplotlib, Seaborn, and Plotly. Create interactive dashboards for presenting insights and findings.
+
+## Tableau Dashboards:
+- [Actual vs Predicted Power Consumption](https://public.tableau.com/app/profile/keval.shah1473/viz/ashish_2/ActualvsPredictedPowerConsumption?publish=yes)
+- [Power Consumption vs Time](https://public.tableau.com/app/profile/keval.shah1473/viz/ashish3/PowerConsumptionvsTime)
+- [Dashboard 1](https://public.tableau.com/views/Ashish5/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
