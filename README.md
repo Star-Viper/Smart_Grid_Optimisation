@@ -14,6 +14,11 @@ The objective of our project is to develop predictive models for wind power gene
 - [Actual vs Predicted Power Consumption](https://public.tableau.com/app/profile/keval.shah1473/viz/ashish_2/ActualvsPredictedPowerConsumption?publish=yes)
 - [Power Consumption vs Time](https://public.tableau.com/app/profile/keval.shah1473/viz/ashish3/PowerConsumptionvsTime)
 
+## Tableau Dashboards:
+- [Dashboard](https://public.tableau.com/views/SmartGridData/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+- [Actual vs Predicted Power Consumption](https://public.tableau.com/app/profile/keval.shah1473/viz/ashish_2/ActualvsPredictedPowerConsumption?publish=yes)
+- [Power Consumption vs Time](https://public.tableau.com/app/profile/keval.shah1473/viz/ashish3/PowerConsumptionvsTime)
+
 ## Team Members:
 - Keval Shah
 - Ashish Maurya
