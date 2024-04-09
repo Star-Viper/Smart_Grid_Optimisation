@@ -1,0 +1,3 @@
+https://public.tableau.com/views/SmartGridData/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/app/profile/keval.shah1473/viz/ashish_2/ActualvsPredictedPowerConsumption?publish=yes
+https://public.tableau.com/app/profile/keval.shah1473/viz/ashish3/PowerConsumptionvsTime
